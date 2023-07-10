@@ -9,19 +9,29 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 @mixin halo-achievement {
+  // Force the notice box to be long enough to contain the achievement icon.
   min-height: calc(64px + 2em);
 
-  p {
+  p:first-child {
+    // Prevent images or videos from collapsing onto the achievement icon when the following text is short
+    // (single-lined).
     min-height: 50px;
+  }
+
+  .responsive-video-container {
+    // There is no need any additional margin as the surrounding notice box already provides a padding.
+    margin-bottom: 0;
   }
 }
 
+// Use this class for providing steps to the achievement.
 .halo-achievement--info {
   @extend .notice--info;
 
   @include halo-achievement;
 }
 
+// Use this class to provide warnings not to fail the achievement.
 .halo-achievement--warning {
   @extend .notice--warning;
 
