@@ -20,6 +20,34 @@ reduce the file size. Downscale and convert it into WebP format using *convert-s
 
 The output image would be smaller than 100KB. Even mobile viewers won't be a problem now!
 
+## Halo Achievements
+
+Use `halo-achievement.html` template to insert achievement notices. There are four parameters you should fill in:
+
+- `type`: `"info"` or `"warning"`
+- `english_name`: achievement name in English
+- `korean_name`: achievement name in Korean
+- `content`: main content
+
+For example:
+
+```
+{% capture like_a_fine_wine %}
+플레이리스트 목록에서 LASO (legendary all skulls on) 캠페인 플레이리스트를 찾을 수 있다. 모든 해골을 활성화한 전설 난이도이다. 기존의
+전설 난이도에 장애 요소를 잔뜩 추가해서 더 어렵게 만들었다고 생각하면 된다. 다른 이름으로는 신화 난이도라고도 불린다. 이 게임의 고인물이라고
+불리는 방송인들조차도 굉장히 어려워한다.
+
+코버넌트의 무기를 사용할 수 없고, 탄약 소모가 두 배인 데다 아군들이 죽고 떨어뜨린 총에는 탄약이 평소의 절반만 남아 있다. 그렇기 때문에
+그나마 흔히 발견할 수 있는 돌격 소총에 의존할 수밖에 없다.
+{% endcapture %}
+{% include halo-achievement.html
+  type="info"
+  english_name="Like a Fine Wine"
+  korean_name="취항이 고급이군"
+  content=like_a_fine_wine
+%}
+```
+
 ## References
 
 I have heavily referred to [Halo Completionist](https://youtube.com/@HaloCompletionist), a YouTube channel, while
