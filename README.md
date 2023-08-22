@@ -57,6 +57,7 @@ Transcripts and trivia are from [Halo Alpha](https://halo.fandom.com/wiki/Halo_A
 
 ### Halo: Combat Evolved Anniversary
 
+- [Achievement list](https://steamcommunity.com/stats/976730/achievements/)
 - [Campaign list](https://halo.fandom.com/wiki/Halo:_Combat_Evolved_Anniversary#Campaign_2)
 - [Campaign walkthroughs on legendary difficulty](https://youtube.com/playlist?list=PL3bi5dIhs8VW5DLy7E19339-TwQEhNI59)
 - [Locations of every skull](https://youtu.be/3_cv8mjNuoY)
