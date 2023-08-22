@@ -28,6 +28,9 @@ flyover_country:
 giant_hula_hoop:
   english: "Giant Hula Hoop"
   korean: "거대한 훌라후프"
+hitchhikers_may_be_escaping_convicts:
+  english: "Hitchhikers May Be Escaping Convicts"
+  korean: "경고: 함부로 히치하이커를 태우지 마십시오"
 hit_the_beach:
   english: "Hit the Beach"
   korean: "해변으로"
@@ -37,6 +40,9 @@ how_pedestrian:
 idle_hands:
   english: "Idle Hands"
   korean: "한가한 자"
+madrigal_debut:
+  english: "Madrigal Debut"
+  korean: "마드리갈 데뷔 무대"
 my_buddy_chips:
   english: "My Buddy Chips"
   korean: "내 친구 칩"
@@ -61,21 +67,36 @@ skulltaker_boom:
 skulltaker_famine:
   english: "Skulltaker Halo: CE: Famine"
   korean: "해골강탈자 Halo: CE: 배고픔"
+skulltaker_fog:
+  english: "Skulltaker Halo: CE: Fog"
+  korean: "해골강탈자 Halo: CE: 안개"
 skulltaker_foreign:
   english: "Skulltaker Halo: CE: Foreign"
   korean: "해골강탈자 Halo: CE: 이질감"
 skulltaker_iron:
   english: "Skulltaker Halo: CE: Iron"
   korean: "해골강탈자 Halo: CE: 강철"
+skulltaker_malfunction:
+  english: "Skulltaker Halo: CE: Malfunction"
+  korean: "해골강탈자 Halo CE: 안개"
 skulltaker_mythic:
   english: "Skulltaker Halo: CE: Mythic"
   korean: "해골강탈자 Halo: CE: P.T."
 splinters:
   english: "Splinters"
   korean: "분열"
+vetro_strike:
+  english: "Vetro Strike"
+  korean: "유리 깨기"
 walk_it_off:
   english: "Walk it Off"
   korean: "인내는 승리의 열매"
+would_itve_killed_you_to_take_the_elevator:
+  english: "Would It've Killed You To Take The Elevator"
+  korean: "엘리베이터 좀 타면 무슨 일 생기나"
+wraith_hunter:
+  english: "Wraith Hunter"
+  korean: "레이스 사냥꾼"
 you_are_the_weapon:
   english: "You Are The Weapon"
   korean: "내 자신이 무기다"
