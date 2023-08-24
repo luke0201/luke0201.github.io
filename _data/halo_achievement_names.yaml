@@ -7,12 +7,18 @@ arrival:
 beachhead:
   english: "Beachhead"
   korean: "상륙 거점"
+bearly_contained:
+  english: "Bearly Contained"
+  korean: "볼 것도 없음"
 before_and_after:
   english: "Before and After"
   korean: "옛 것과 새 것"
 charted:
   english: "Charted"
   korean: "지도 작성 완료"
+circuit_breaker:
+  english: "Circuit Breaker"
+  korean: "전기 회로 차단기"
 close_quarters_combat:
   english: "Close Quarters Combat"
   korean: "접근전"
@@ -25,6 +31,9 @@ feet_firmly_planted:
 flyover_country:
   english: "Flyover Country"
   korean: "스쳐가는 지역"
+get_me_out_of_here:
+  english: "Get Me Out Of Here!"
+  korean: "꺼내 주세요!"
 giant_hula_hoop:
   english: "Giant Hula Hoop"
   korean: "거대한 훌라후프"
@@ -40,6 +49,9 @@ how_pedestrian:
 idle_hands:
   english: "Idle Hands"
   korean: "한가한 자"
+lightning_in_a_bottle:
+  english: "Lightning in a Bottle"
+  korean: "번개 잡아두기"
 madrigal_debut:
   english: "Madrigal Debut"
   korean: "마드리갈 데뷔 무대"
@@ -82,6 +94,9 @@ skulltaker_malfunction:
 skulltaker_mythic:
   english: "Skulltaker Halo: CE: Mythic"
   korean: "해골강탈자 Halo: CE: P.T."
+skulltaker_recession:
+  english: "Skulltaker Halo: CE: Recession"
+  korean: "해골강탈자 Halo: CE: 불황"
 splinters:
   english: "Splinters"
   korean: "분열"
