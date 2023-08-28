@@ -67,15 +67,27 @@ overshields_are_for_sissies:
 pillar_of_awesome:
   english: "Pillar of Awesome"
   korean: "굉장한 탈출"
+quis_custodiet_ipsos_custodes:
+  english: "Quis custodiet ipsos custodes?"
+  korean: "감시인을 누가 감시할 것인가?"
+reading_room:
+  english: "Reading Room"
+  korean: "독서실"
 sacrifice:
   english: "Sacrifice"
   korean: "희생"
 skulltaker_bandana:
   english: "Skulltaker Halo: CE: Bandana"
   korean: "해골강탈자 Halo: CE: 머리띠"
+skulltaker_black_eye:
+  english: "Skulltaker Halo: CE: Black Eye"
+  korean: "해골강탈자 Halo: CE: 멍든 눈"
 skulltaker_boom:
   english: "Skulltaker Halo: CE: Boom"
   korean: "해골강탈자 Halo: CE: 꽝!"
+skulltaker_eye_patch:
+  english: "Skulltaker Halo: CE: Eye Patch"
+  korean: "해골강탈자 Halo: CE: 안대"
 skulltaker_famine:
   english: "Skulltaker Halo: CE: Famine"
   korean: "해골강탈자 Halo: CE: 배고픔"
@@ -100,6 +112,12 @@ skulltaker_recession:
 splinters:
   english: "Splinters"
   korean: "분열"
+that_just_happened:
+  english: "That Just Happened"
+  korean: "믿기지 않겠지만 사실입니다"
+tldr:
+  english: "TLDR"
+  korean: "너무 길어서 읽지는 않았다"
 vetro_strike:
   english: "Vetro Strike"
   korean: "유리 깨기"
