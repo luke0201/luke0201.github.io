@@ -25,11 +25,21 @@ The output image would be smaller than 100KB. Even mobile viewers won't be a pro
 Use `halo-achievement.html` template to insert achievement notices. There are four parameters you should fill in:
 
 - `type`: `"info"` or `"warning"`
-- `english_name`: achievement name in English
-- `korean_name`: achievement name in Korean
+- `name`: achievement identifier (key in `_data/halo_achievement_names.yaml`)
 - `content`: main content
 
-For example:
+Add the Korean and English names to `_data/halo_achievement_names.yaml` in the following format:
+
+```yaml
+identifier:
+  english: Achievement Name in English
+  korean: Achievement Name in Korean
+```
+
+`identifier` is not only used to locate the entry in the data file, but also the name of the logo image under the
+directory `/assets/images/halo-cea/achievements/`.
+
+Here is an example:
 
 ```
 {% capture like_a_fine_wine %}
@@ -42,8 +52,7 @@ For example:
 {% endcapture %}
 {% include halo-achievement.html
   type="info"
-  english_name="Like a Fine Wine"
-  korean_name="취항이 고급이군"
+  name="like_a_fine_wine"
   content=like_a_fine_wine
 %}
 ```
