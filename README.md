@@ -42,7 +42,7 @@ directory `/assets/images/halo-cea/achievements/`.
 Here is an example:
 
 ```
-{% capture like_a_fine_wine %}
+{% capture content %}
 플레이리스트 목록에서 LASO (legendary all skulls on) 캠페인 플레이리스트를 찾을 수 있다. 모든 해골을 활성화한 전설 난이도이다. 기존의
 전설 난이도에 장애 요소를 잔뜩 추가해서 더 어렵게 만들었다고 생각하면 된다. 다른 이름으로는 신화 난이도라고도 불린다. 이 게임의 고인물이라고
 불리는 방송인들조차도 굉장히 어려워한다.
@@ -53,7 +53,7 @@ Here is an example:
 {% include halo-achievement.html
   type="info"
   name="like_a_fine_wine"
-  content=like_a_fine_wine
+  content=content
 %}
 ```
 
