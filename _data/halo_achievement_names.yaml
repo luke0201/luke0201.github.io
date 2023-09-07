@@ -49,12 +49,18 @@ how_pedestrian:
 idle_hands:
   english: "Idle Hands"
   korean: "한가한 자"
+it_was_inevitable:
+  english: "It Was Inevitable"
+  korean: "그것은 필연적이었다"
 lightning_in_a_bottle:
   english: "Lightning in a Bottle"
   korean: "번개 잡아두기"
 madrigal_debut:
   english: "Madrigal Debut"
   korean: "마드리갈 데뷔 무대"
+memories:
+  english: "Memories"
+  korean: "기억"
 my_buddy_chips:
   english: "My Buddy Chips"
   korean: "내 친구 칩"
@@ -106,6 +112,9 @@ skulltaker_malfunction:
 skulltaker_mythic:
   english: "Skulltaker Halo: CE: Mythic"
   korean: "해골강탈자 Halo: CE: P.T."
+skulltaker_pinata:
+  english: "Skulltaker Halo: CE: Pinata"
+  korean: "해골강탈자 Halo: CE: 피냐타"
 skulltaker_recession:
   english: "Skulltaker Halo: CE: Recession"
   korean: "해골강탈자 Halo: CE: 불황"
@@ -124,6 +133,9 @@ vetro_strike:
 walk_it_off:
   english: "Walk it Off"
   korean: "인내는 승리의 열매"
+whistle_stop_tour:
+  english: "Whistle Stop Tour"
+  korean: "정치 홍보 여행"
 would_itve_killed_you_to_take_the_elevator:
   english: "Would It've Killed You To Take The Elevator"
   korean: "엘리베이터 좀 타면 무슨 일 생기나"
