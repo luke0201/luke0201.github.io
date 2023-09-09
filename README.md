@@ -4,6 +4,42 @@ Yes, this is my personal blog.
 
 Here are guidelines and references for writing articles.
 
+## Citation Format
+
+Follow the format roughly equivalent to that of Wikipedia. You may omit any unnecessary element. Order the references
+according to the surname of the first author and title if not present.
+
+### Books
+
+```md
+{surname}, {first name} ({year}). *{title}*. {publisher}. pp. {start}–{end}. ISBN {ISBN}.
+```
+
+For example:
+
+- Dietz, William C. (2019). *Halo: The Flood*. Gallery Books. pp. 1–7. ISBN 978-1-9821-1163-2.
+- Nylund, Eric (2019). *Halo: First Strike*. Gallery Books. ISBN 978-1-9821-1165-6.
+
+### Webpages
+
+```md
+{author} ({date}). ["{title}"]({URL}). *{site}*.
+```
+
+You don't need to specify the chapter name when citing from a long article. Just include its URL fragment if possible.
+
+When attaching a YouTube link, try to include the start time, the query string `?t=___` at the end, as well.
+
+For example:
+
+- ["Halo: Combat Evolved Anniversary
+Terminals"](https://halo.fandom.com/wiki/Terminal/Halo:_Combat_Evolved_Anniversary#Terminal_1_-_The_Pillar_of_Autumn).
+*Halo Alpha*.
+- ["The Pillar of Autumn"](https://halo.fandom.com/wiki/The_Pillar_of_Autumn_(Halo:_Combat_Evolved_level)). *Halo
+Alpha*.
+- Halo Completionist (15 November 2014). ["Halo MCC - All CE Skulls - Headhunter - Achievement
+Guide"](https://youtu.be/3_cv8mjNuoY). *YouTube*.
+
 ## Game Screenshot
 
 Press *Windows* + *Print Screen* keys to capture the entire screen. The image will save to *Pictures\Screenshots*
@@ -57,7 +93,7 @@ Here is an example:
 %}
 ```
 
-## References
+## Helpful Links
 
 I have heavily referred to [Halo Completionist](https://youtube.com/@HaloCompletionist), a YouTube channel, while
 writing Halo guides.
