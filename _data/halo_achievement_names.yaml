@@ -37,6 +37,9 @@ get_me_out_of_here:
 giant_hula_hoop:
   english: "Giant Hula Hoop"
   korean: "거대한 훌라후프"
+headstrong:
+  english: "Headstrong"
+  korean: "고집불통"
 hitchhikers_may_be_escaping_convicts:
   english: "Hitchhikers May Be Escaping Convicts"
   korean: "경고: 함부로 히치하이커를 태우지 마십시오"
@@ -61,12 +64,18 @@ madrigal_debut:
 memories:
   english: "Memories"
   korean: "기억"
+mind_games:
+  english: "Mind Games"
+  korean: "심리 게임"
 my_buddy_chips:
   english: "My Buddy Chips"
   korean: "내 친구 칩"
 no_fly_zone:
   english: "No-Fly Zone"
   korean: "비행 금지 구역"
+no_smoking:
+  english: "No Smoking"
+  korean: "금연"
 overshields_are_for_sissies:
   english: "Overshields are for Sissies"
   korean: "남자는 배짱"
@@ -82,6 +91,9 @@ reading_room:
 sacrifice:
   english: "Sacrifice"
   korean: "희생"
+scurty_bump:
+  english: "Scurty Bump"
+  korean: "안전 사고"
 skulltaker_bandana:
   english: "Skulltaker Halo: CE: Bandana"
   korean: "해골강탈자 Halo: CE: 머리띠"
