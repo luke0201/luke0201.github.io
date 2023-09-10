@@ -1,6 +1,9 @@
 all_according_to_plan:
   english: "All According to Plan..."
   korean: "모든 것은 계획대로"
+all_you_can_eat:
+  english: "All You Can Eat"
+  korean: "무제한 먹거리"
 arrival:
   english: "Arrival"
   korean: "도착"
@@ -22,6 +25,9 @@ circuit_breaker:
 close_quarters_combat:
   english: "Close Quarters Combat"
   korean: "접근전"
+consumption_junction:
+  english: "Consumption Junction"
+  korean: "쓰레기 저장소"
 didnt_like_this_ship_anyways:
   english: "Didn't Like This Ship Anyways"
   korean: "이 함선은 원래 맘에 안 들었어"
@@ -55,6 +61,9 @@ idle_hands:
 it_was_inevitable:
   english: "It Was Inevitable"
   korean: "그것은 필연적이었다"
+kilotons_of_fun:
+  english: "Kilotons of Fun"
+  korean: "엄청나게 재미있음"
 lightning_in_a_bottle:
   english: "Lightning in a Bottle"
   korean: "번개 잡아두기"
@@ -115,6 +124,9 @@ skulltaker_fog:
 skulltaker_foreign:
   english: "Skulltaker Halo: CE: Foreign"
   korean: "해골강탈자 Halo: CE: 이질감"
+skulltaker_grunt_birthday_party:
+  english: "Skulltaker Halo: CE: Grunt Birthday Party"
+  korean: "해골강탈자 Halo: CE: 그런트 생일잔치"
 skulltaker_iron:
   english: "Skulltaker Halo: CE: Iron"
   korean: "해골강탈자 Halo: CE: 강철"
@@ -133,9 +145,18 @@ skulltaker_recession:
 splinters:
   english: "Splinters"
   korean: "분열"
+t_rex:
+  english: "T-Rex"
+  korean: "티라노사우루스"
 that_just_happened:
   english: "That Just Happened"
   korean: "믿기지 않겠지만 사실입니다"
+thirsty_grunt:
+  english: "Thirsty Grunt"
+  korean: "목마른 그런트"
+this_side_up:
+  english: "This Side Up"
+  korean: "안전한 배송"
 tldr:
   english: "TLDR"
   korean: "너무 길어서 읽지는 않았다"
