@@ -1,14 +1,19 @@
 <!--
 Parameters
 - type: "info" or "warning"
+- game: to which Halo title the achievement belongs ("cea", "2a", "3", "3_odst", "reach", or "4")
 - name: achievement identifier (key in /_data/halo_achievement_names.yaml)
 - content: main content
 -->
-{% assign english_name = site.data.halo_achievement_names[include.name].english %}
-{% assign korean_name = site.data.halo_achievement_names[include.name].korean %}
-{% assign logo = include.name | replace: "_", "-" | append: ".jpg" %}
-{% capture body %}
-!["{{ english_name }}" achievement logo](/assets/images/halo-cea/achievements/{{ logo }}){: .align-left}
-**[{{ korean_name }}]** {{ include.content }}
+{% assign game = include.game | prepend: "halo_" %}
+{% assign english_name = site.data.halo_achievement_names[game][include.name].english %}
+{% assign korean_name = site.data.halo_achievement_names[game][include.name].korean %}
+{% capture logo_path %}
+/assets/images/{{ game | replace: "_", "-" }}/achievements/{{ include.name | replace: "_", "-" }}.jpg
 {% endcapture %}
+
+{%- capture body %}
+!["{{ english_name }}" achievement logo]({{ logo_path }}){: .align-left}
+**[{{ korean_name }}]** {{ include.content }}
+{% endcapture -%}
 <div class="halo-achievement--{{ include.type }}">{{ body | markdownify }}</div>

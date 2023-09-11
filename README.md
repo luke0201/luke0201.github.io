@@ -61,6 +61,7 @@ The output image would be smaller than 100KB. Even mobile viewers won't be a pro
 Use `halo-achievement.html` template to insert achievement notices. There are four parameters you should fill in:
 
 - `type`: `"info"` or `"warning"`
+- `game`: to which Halo title the achievement belongs (`"cea"`, `"2a"`, `"3"`, `"3_odst"`, `"reach"`, or `"4"`)
 - `name`: achievement identifier (key in `_data/halo_achievement_names.yaml`)
 - `content`: main content
 
@@ -73,7 +74,7 @@ identifier:
 ```
 
 `identifier` is not only used to locate the entry in the data file, but also the name of the logo image under the
-directory `/assets/images/halo-cea/achievements/`.
+directory `/assets/images/{game}/achievements/`.
 
 Here is an example:
 
@@ -88,6 +89,7 @@ Here is an example:
 {% endcapture %}
 {% include halo-achievement.html
   type="info"
+  game="cea"
   name="like_a_fine_wine"
   content=content
 %}
