@@ -80,6 +80,11 @@ defaults:
       comments: true
       share: true
       related: true
+  - scope:
+      path: "halo"
+      type: posts
+    values:
+      show_date: false
   # _pages
   - scope:
       path: "_pages"
