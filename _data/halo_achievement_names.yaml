@@ -192,9 +192,15 @@ halo_2a:
   back_at_it:
     english: "Back At It"
     korean: "날짜는 돌아온다"
+  skulltaker_thats_just_wrong:
+    english: "Skulltaker Halo 2: That's Just...Wrong"
+    korean: "해골강탈자 Halo 2: 그건... 아니라고 봐"
   starved_for_shields:
     english: "Starved For Shields"
     korean: "방어막에 굶주렸다"
+  tighten_up_the_graphics:
+    english: "Tighten Up The Graphics"
+    korean: "향상된 그래픽"
 halo_3:
   third_times_a_charm:
     english: "Third Time's A Charm"
