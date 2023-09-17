@@ -213,6 +213,9 @@ halo_2a:
   examiner:
     english: "Examiner"
     korean: "조사관"
+  fascinated:
+    english: "Fascinated"
+    korean: "매력"
   heresy_will_not_stay_my_feet:
     english: "Heresy Will Not Stay My Feet"
     korean: "반역의 짐을 벗으리라"
@@ -222,9 +225,15 @@ halo_2a:
   inspector:
     english: "Inspector"
     korean: "감독관"
+  leave_none_alive:
+    english: "Leave None Alive"
+    korean: "아무도 살려두지 마라"
   objective_secured:
     english: "Objective Secured"
     korean: "임무 완수"
+  reed_the_strategy:
+    english: "Reed the Strategy"
+    korean: "전략 수립"
   rex_sword:
     english: "Rex Sword"
     korean: "렉스의 검"
@@ -240,6 +249,9 @@ halo_2a:
   skulltaker_catch:
     english: "Skulltaker Halo 2: Catch"
     korean: "해골강탈자 Halo 2: 투수"
+  skulltaker_famine:
+    english: "Skulltaker Halo 2: Famine"
+    korean: "해골강탈자 Halo 2: 배고픔"
   skulltaker_grunt_birthday_party:
     english: "Skulltaker Halo 2: Grunt Birthday Party"
     korean: "해골강탈자 Halo 2: 그런트 생일잔치"
