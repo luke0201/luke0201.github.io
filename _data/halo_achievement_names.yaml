@@ -192,6 +192,9 @@ halo_2a:
   back_at_it:
     english: "Back At It"
     korean: "날짜는 돌아온다"
+  betcha_cant_stick_it:
+    english: "Betcha can't stick it..."
+    korean: "안 붙는다에 걸지..."
   bomb_squad:
     english: "Bomb Squad"
     korean: "폭탄 전담반"
@@ -201,6 +204,24 @@ halo_2a:
   dont_hangar_around:
     english: "Don't Hangar Around"
     korean: "격납고 근처에서 서성거리지 마"
+  inquisitive:
+    english: "Inquisitive"
+    korean: "탐구심"
+  objective_secured:
+    english: "Objective Secured"
+    korean: "임무 완수"
+  rex_sword:
+    english: "Rex Sword"
+    korean: "렉스의 검"
+  rooftop_runner:
+    english: "Rooftop Runner"
+    korean: "옥상을 달리는 자"
+  skulltaker_blind:
+    english: "Skulltaker Halo 2: Blind"
+    korean: "해골강탈자 Halo 2: 맹인"
+  skulltaker_iwhbyd:
+    english: "Skulltaker Halo 2: IWHBYD"
+    korean: "해골강탈자 Halo 2: 내가 니 애비다"
   skulltaker_thats_just_wrong:
     english: "Skulltaker Halo 2: That's Just...Wrong"
     korean: "해골강탈자 Halo 2: 그건... 아니라고 봐"
