@@ -111,4 +111,6 @@ Transcripts and trivia are from [Halo Alpha](https://halo.fandom.com/wiki/Halo_A
 - [Campaign list](https://halo.fandom.com/wiki/Halo_2:_Anniversary#Levels)
 - [Skull locations](https://youtu.be/MVV5fQw2lSs)
 - [Terminal locations](https://youtu.be/YcegqNgBGhQ)
+- [Terminal videos](https://youtu.be/vp8Phzz3oCA)
+- [Terminal transcripts](https://www.halopedia.org/Terminal_(Halo_2:_Anniversary))
 - [Toy locations](https://youtu.be/vIYjJtcJWLc)

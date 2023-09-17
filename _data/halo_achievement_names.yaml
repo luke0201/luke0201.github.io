@@ -192,9 +192,21 @@ halo_2a:
   back_at_it:
     english: "Back At It"
     korean: "날짜는 돌아온다"
+  bomb_squad:
+    english: "Bomb Squad"
+    korean: "폭탄 전담반"
+  curious:
+    english: "Curious"
+    korean: "호기심"
+  dont_hangar_around:
+    english: "Don't Hangar Around"
+    korean: "격납고 근처에서 서성거리지 마"
   skulltaker_thats_just_wrong:
     english: "Skulltaker Halo 2: That's Just...Wrong"
     korean: "해골강탈자 Halo 2: 그건... 아니라고 봐"
+  skulltaker_thunderstorm:
+    english: "Skulltaker Halo 2: Thunderstorm"
+    korean: "해골강탈자 Halo 2: 폭풍우"
   starved_for_shields:
     english: "Starved For Shields"
     korean: "방어막에 굶주렸다"
