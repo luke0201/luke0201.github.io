@@ -8,12 +8,12 @@ Parameters
 {% assign game = include.game | prepend: "halo_" %}
 {% assign english_name = site.data.halo_achievement_names[game][include.name].english %}
 {% assign korean_name = site.data.halo_achievement_names[game][include.name].korean %}
-{% capture logo_path %}
+{% capture logo_path -%}
 /assets/images/{{ game | replace: "_", "-" }}/achievements/{{ include.name | replace: "_", "-" }}.jpg
-{% endcapture %}
+{%- endcapture %}
 
-{%- capture body %}
+{%- capture body -%}
 !["{{ english_name }}" achievement logo]({{ logo_path }}){: .align-left}
 **[{{ korean_name }}]** {{ include.content }}
-{% endcapture -%}
+{%- endcapture -%}
 <div class="halo-achievement--{{ include.type }}">{{ body | markdownify }}</div>
