@@ -204,6 +204,12 @@ halo_2a:
   dont_hangar_around:
     english: "Don't Hangar Around"
     korean: "격납고 근처에서 서성거리지 마"
+  e_e_e:
+    english: "E E E"
+    korean: "E E E"
+  examiner:
+    english: "Examiner"
+    korean: "조사관"
   inquisitive:
     english: "Inquisitive"
     korean: "탐구심"
@@ -213,12 +219,18 @@ halo_2a:
   rex_sword:
     english: "Rex Sword"
     korean: "렉스의 검"
+  ripple_fire:
+    english: "Ripple Fire"
+    korean: "연속 발사"
   rooftop_runner:
     english: "Rooftop Runner"
     korean: "옥상을 달리는 자"
   skulltaker_blind:
     english: "Skulltaker Halo 2: Blind"
     korean: "해골강탈자 Halo 2: 맹인"
+  skulltaker_catch:
+    english: "Skulltaker Halo 2: Catch"
+    korean: "해골강탈자 Halo 2: 투수"
   skulltaker_iwhbyd:
     english: "Skulltaker Halo 2: IWHBYD"
     korean: "해골강탈자 Halo 2: 내가 니 애비다"
@@ -228,6 +240,9 @@ halo_2a:
   skulltaker_thunderstorm:
     english: "Skulltaker Halo 2: Thunderstorm"
     korean: "해골강탈자 Halo 2: 폭풍우"
+  speeding_ticket:
+    english: "Speeding Ticket"
+    korean: "속도 위반 딱지"
   starved_for_shields:
     english: "Starved For Shields"
     korean: "방어막에 굶주렸다"
