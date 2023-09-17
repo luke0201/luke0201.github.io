@@ -201,6 +201,9 @@ halo_2a:
   curious:
     english: "Curious"
     korean: "호기심"
+  dirty_bird:
+    english: "Dirty Bird"
+    korean: "이단으로 더럽혀진 비행기"
   dont_hangar_around:
     english: "Don't Hangar Around"
     korean: "격납고 근처에서 서성거리지 마"
@@ -210,9 +213,15 @@ halo_2a:
   examiner:
     english: "Examiner"
     korean: "조사관"
+  heresy_will_not_stay_my_feet:
+    english: "Heresy Will Not Stay My Feet"
+    korean: "반역의 짐을 벗으리라"
   inquisitive:
     english: "Inquisitive"
     korean: "탐구심"
+  inspector:
+    english: "Inspector"
+    korean: "감독관"
   objective_secured:
     english: "Objective Secured"
     korean: "임무 완수"
@@ -231,6 +240,9 @@ halo_2a:
   skulltaker_catch:
     english: "Skulltaker Halo 2: Catch"
     korean: "해골강탈자 Halo 2: 투수"
+  skulltaker_grunt_birthday_party:
+    english: "Skulltaker Halo 2: Grunt Birthday Party"
+    korean: "해골강탈자 Halo 2: 그런트 생일잔치"
   skulltaker_iwhbyd:
     english: "Skulltaker Halo 2: IWHBYD"
     korean: "해골강탈자 Halo 2: 내가 니 애비다"
@@ -249,6 +261,9 @@ halo_2a:
   tighten_up_the_graphics:
     english: "Tighten Up The Graphics"
     korean: "향상된 그래픽"
+  yolo_strats:
+    english: "YOLO Strats"
+    korean: "일단 저지르고 생각해"
 halo_3:
   third_times_a_charm:
     english: "Third Time's A Charm"
