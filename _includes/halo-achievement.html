@@ -1,10 +1,11 @@
-<!--
+{%- comment -%}
 Parameters
 - type: "info" or "warning"
 - game: to which Halo title the achievement belongs ("cea", "2a", "3", "3_odst", "reach", or "4")
 - name: achievement identifier (key in /_data/halo_achievement_names.yaml)
 - content: main content
--->
+{%- endcomment -%}
+
 {% assign game = include.game | prepend: "halo_" %}
 {% assign english_name = site.data.halo_achievement_names[game][include.name].english %}
 {% assign korean_name = site.data.halo_achievement_names[game][include.name].korean %}
