@@ -48,10 +48,10 @@ folder.
 Transfer the screenshots to your Mac PC. I use Google Drive for this purpose.
 
 Each image is a 1920x1080 PNG file. Its file size is around 3MB, too big to be embedded in an article. You need to
-reduce the file size. Downscale and convert it into WebP format using *convert-screenshots.sh* script.
+reduce the file size. Downscale and convert it into WebP format using *webpify.sh* script.
 
 ```shell
-./convert-screenshots.sh ${DIRECTORY}
+./webpify.sh ${DIRECTORY}
 ```
 
 The output image would be smaller than 100KB. Even mobile viewers won't be a problem now!
