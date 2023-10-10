@@ -106,6 +106,7 @@ And I'll list the rest.
 - [Legendary difficulty walkthroughs (Halo
 Completionist)](https://youtube.com/playlist?list=PL3bi5dIhs8VW5DLy7E19339-TwQEhNI59)
 - [Legendary difficulty walkthroughs (Hokiebird428)](https://youtube.com/playlist?list=PLDDA06718B3EC7CB3)
+- [Legendary difficulty speedruns](https://youtube.com/playlist?list=PL3bi5dIhs8VU427w55d8Z8qF7CCFZ61NE)
 - [Skull locations](https://youtu.be/3_cv8mjNuoY)
 - [Terminal locations](https://youtu.be/jh2UytziVqQ)
 - [Terminal videos](https://youtu.be/TyKoYmgD_tQ)
@@ -115,6 +116,7 @@ Completionist)](https://youtube.com/playlist?list=PL3bi5dIhs8VW5DLy7E19339-TwQEh
 
 - [Campaign list](https://halo.fandom.com/wiki/Halo_2:_Anniversary#Levels)
 - [Legendary difficulty walkthroughs (Hokiebird428)](https://youtube.com/playlist?list=PL87AB8AC775CB32B0)
+- [Legendary difficulty speedruns](https://youtube.com/playlist?list=PL3bi5dIhs8VV4dLHihlU5Y4mnmm2T93wD)
 - [Skull locations](https://youtu.be/MVV5fQw2lSs)
 - [Terminal locations](https://youtu.be/YcegqNgBGhQ)
 - [Terminal videos](https://youtu.be/vp8Phzz3oCA)
