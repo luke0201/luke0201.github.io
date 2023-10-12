@@ -85,7 +85,7 @@ Here is an example:
 
 코버넌트 무기를 사용할 수 없고, 탄약 소모가 두 배인 데다, 아군들이 죽고 떨어뜨린 총에는 탄약이 평소의 절반만 남아 있다. 그래서 가장 흔한
 돌격소총에 의존해야 한다.
-{%- endcapture %}
+{%- endcapture -%}
 {% include halo-achievement.html type="info" game="cea" name="like_a_fine_wine" content=content %}
 ```
 
