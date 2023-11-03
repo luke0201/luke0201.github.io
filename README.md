@@ -77,12 +77,11 @@ Here is an example:
 
 ```
 {% capture content -%}
-플레이리스트 목록에서 LASO (legendary all skulls on) 캠페인 플레이리스트를 찾을 수 있다. 모든 해골을 활성화한 전설 난이도이다. 전설
-난이도에 장애 요소를 잔뜩 추가해서 더 어렵게 만들었다고 생각하면 된다. 다른 이름으로는 신화 난이도라고 불린다. 이 게임 고인물이라고 불리는
-방송인들조차 어려워한다.
+플레이리스트 목록에서 LASO (legendary all skulls on) 캠페인 플레이리스트를 찾을 수 있다. 직역하면 모든 해골을 활성화한 전설 난이도다.
+정확히는 나쁜 해골만 있다. 다른 이름으로는 신화 난이도라고 불린다. 이 게임 고인물이라고 불리는 방송인들조차 어려워한다.
 
-코버넌트 무기를 사용할 수 없고, 탄약 소모가 두 배인 데다, 아군들이 죽고 떨어뜨린 총에는 탄약이 평소의 절반만 남아 있다. 그래서 가장 흔한
-돌격소총에 의존해야 한다.
+코버넌트 무기를 사용할 수 없고, 탄약 소모가 두 배인 데다, 아군들이 죽고 떨어뜨린 총에는 탄약이 절반밖에 없다. 그래서 가장 흔한 돌격소총에
+의존해야 한다.
 {%- endcapture -%}
 {% include halo-achievement.html type="info" game="cea" name="like_a_fine_wine" content=content %}
 ```
@@ -121,3 +120,10 @@ Completionist)](https://youtube.com/playlist?list=PL3bi5dIhs8VW5DLy7E19339-TwQEh
 - [Terminal videos](https://youtu.be/vp8Phzz3oCA)
 - [Terminal transcripts](https://www.halopedia.org/Terminal_(Halo_2:_Anniversary))
 - [Toy locations](https://youtu.be/vIYjJtcJWLc)
+
+### Halo 3
+
+- [Campaign list](https://halopedia.org/Halo_3#Campaign)
+- [Legendary difficulty walkthroughs
+(Hokiebird428)](https://youtube.com/playlist?list=PLI1zyR8U6_08d5NR19sI7pITQVtzv-arM)
+- [Legendary difficulty speedruns](https://youtube.com/playlist?list=PL3bi5dIhs8VWLm_AG_ko3jWuS_0whSAFj)
