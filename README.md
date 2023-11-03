@@ -32,11 +32,9 @@ When attaching a YouTube link, try to include the start time, the query string `
 
 For example:
 
-- ["Halo: Combat Evolved Anniversary
-Terminals"](https://halo.fandom.com/wiki/Terminal/Halo:_Combat_Evolved_Anniversary#Terminal_1_-_The_Pillar_of_Autumn).
-*Halo Alpha*.
-- ["The Pillar of Autumn"](https://halo.fandom.com/wiki/The_Pillar_of_Autumn_(Halo:_Combat_Evolved_level)). *Halo
-Alpha*.
+- ["Terminal (Halo: Combat Evolved
+Anniversary)"](https://www.halopedia.org/Terminal_(Halo:_Combat_Evolved_Anniversary)#tabsection-0-0). *Halopedia*.
+- ["The Pillar of Autumn"](https://www.halopedia.org/The_Pillar_of_Autumn_(Halo:_Combat_Evolved_level)). *Halopedia*.
 - Halo Completionist (15 November 2014). ["Halo MCC - All CE Skulls - Headhunter - Achievement
 Guide"](https://youtu.be/3_cv8mjNuoY). *YouTube*.
 
@@ -94,7 +92,8 @@ Here is an example:
 I have heavily referred to [Halo Completionist](https://youtube.com/@HaloCompletionist) and
 [Hokiebird428](https://www.youtube.com/@Hokiebird428), YouTube channels, while writing Halo guides.
 
-Transcripts and trivia are from [Halo Alpha](https://halo.fandom.com/wiki/Halo_Alpha), a Fandom wiki.
+Transcripts and trivia are from [Halopedia](https://www.halopedia.org). I previously relied on
+[Halo Alpha](https://halo.fandom.com/wiki/Halo_Alpha), a Fandom wiki, but migrated because of excessive ads.
 
 And I'll list the rest.
 
@@ -102,7 +101,7 @@ And I'll list the rest.
 
 ### Halo: Combat Evolved Anniversary
 
-- [Campaign list](https://halo.fandom.com/wiki/Halo:_Combat_Evolved_Anniversary#Campaign_2)
+- [Campaign list](https://www.halopedia.org/Halo:_Combat_Evolved#Campaign)
 - [Legendary difficulty walkthroughs (Halo
 Completionist)](https://youtube.com/playlist?list=PL3bi5dIhs8VW5DLy7E19339-TwQEhNI59)
 - [Legendary difficulty walkthroughs (Hokiebird428)](https://youtube.com/playlist?list=PLDDA06718B3EC7CB3)
@@ -110,11 +109,11 @@ Completionist)](https://youtube.com/playlist?list=PL3bi5dIhs8VW5DLy7E19339-TwQEh
 - [Skull locations](https://youtu.be/3_cv8mjNuoY)
 - [Terminal locations](https://youtu.be/jh2UytziVqQ)
 - [Terminal videos](https://youtu.be/TyKoYmgD_tQ)
-- [Terminal transcripts](https://halo.fandom.com/wiki/Terminal/Halo:_Combat_Evolved_Anniversary)
+- [Terminal transcripts](https://www.halopedia.org/Terminal_(Halo:_Combat_Evolved_Anniversary))
 
 ### Halo 2: Anniversary
 
-- [Campaign list](https://halo.fandom.com/wiki/Halo_2:_Anniversary#Levels)
+- [Campaign list](https://www.halopedia.org/Halo_2#Campaign)
 - [Legendary difficulty walkthroughs (Hokiebird428)](https://youtube.com/playlist?list=PL87AB8AC775CB32B0)
 - [Legendary difficulty speedruns](https://youtube.com/playlist?list=PL3bi5dIhs8VV4dLHihlU5Y4mnmm2T93wD)
 - [Skull locations](https://youtu.be/MVV5fQw2lSs)
