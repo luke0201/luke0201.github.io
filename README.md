@@ -112,3 +112,4 @@ And I'll list the rest.
 - [Campaign list](https://halopedia.org/Halo_3#Campaign)
 - [Legendary difficulty walkthroughs (Hokiebird428)](https://youtube.com/playlist?list=PLI1zyR8U6_08d5NR19sI7pITQVtzv-arM)
 - [Legendary difficulty speedruns](https://youtube.com/playlist?list=PL3bi5dIhs8VWLm_AG_ko3jWuS_0whSAFj)
+- [Terminal scripts](https://www.halopedia.org/Terminal_(Halo_3))
