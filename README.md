@@ -96,7 +96,8 @@ Transcripts and trivia are from [Halopedia](https://www.halopedia.org). I previo
 
 And I'll list the rest.
 
-- [Halo MCC achievements](https://steamcommunity.com/stats/976730/achievements/)
+- [Halo MCC achievements (Halopedia)](https://www.halopedia.org/Achievements_(Halo:_The_Master_Chief_Collection))
+- [Halo MCC achievements (Steam)](https://steamcommunity.com/stats/976730/achievements/)
 
 ### Halo: Combat Evolved Anniversary
 
